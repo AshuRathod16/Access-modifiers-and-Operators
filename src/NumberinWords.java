@@ -7,7 +7,7 @@ public class NumberinWords {
 
         if (num == 1)
             System.out.println("Unit");
-        else if (num == 2)
+        else if (num == 10)
             System.out.println("Ten");
         else if (num == 100)
             System.out.println("Hundred");
